@@ -1,3 +1,4 @@
+# Sequential Unique Note template for Templater in Obsidian
 
 Чтобы **создать** новую заметку с последовательным номером нужно вызвать шаблон `Sequential Unique Number`
 
