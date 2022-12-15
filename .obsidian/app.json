@@ -1,0 +1,7 @@
+{
+  "communityPluginSortOrder": "download",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
+}

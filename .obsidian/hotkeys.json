@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:!Templates/Sequential Unique Note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ]
+}
